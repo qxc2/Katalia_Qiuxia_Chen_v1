@@ -40,10 +40,17 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup";
-   body {
-    background-image: url('https://sp112358.github.io/Katalia_Qiuxia_Chen_2/assets/UTD.png');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+body {
+    background: 
+        url('/assets/UTD.png') repeat-x top,  /* Top border */
+        url('/assets/UTD.png') repeat-x bottom,  /* Bottom border */
+        url('/assets/UTD.png') repeat-y left,  /* Left border */
+        url('/assets/UTD.png') repeat-y right;  /* Right border */
+    background-size: auto 50px, auto 50px, 50px auto, 50px auto; /* Adjust thickness */
+    background-color: white; /* Change this to any desired center color */
 }
+
+      
+}
+
 
