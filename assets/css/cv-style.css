@@ -233,7 +233,7 @@
     background-color: transparent;
   }
 body {
-    background-image: url('/assets/images/UTD.jpg'); /* Adjust path as needed */
+    background-image: url('/images/UTD.jpg'); /* Adjust path as needed */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
