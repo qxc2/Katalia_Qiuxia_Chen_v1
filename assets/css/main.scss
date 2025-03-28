@@ -39,11 +39,11 @@
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands",
-    "vendor/magnific-popup/magnific-popup"
+    "vendor/magnific-popup/magnific-popup";
    body {
-    background-image: url('images/UTD.png'); /* Adjust path as needed */
+    background-image: url('/assets/UTD.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-;
+
