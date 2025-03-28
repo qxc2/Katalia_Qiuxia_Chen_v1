@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.JPG"
   name             : "Katalia (Qiuxia) Chen"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Dallas, TX"
   employer         : "The University of Texas at Dallas"
