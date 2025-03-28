@@ -40,14 +40,11 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup";
-.border-container {
-    position: fixed;
-    top: 0; left: 0; width: 100%; height: 100%;
-    background: url('https://sp112358.github.io/Katalia_Qiuxia_Chen_2/assets/UTD.png');
+body {
+    background-image: url('https://sp112358.github.io/Katalia_Qiuxia_Chen_2/assets/UTD.png');
+    background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
-    background-position: top, bottom, left, right;
-    background-size: 100% 50px, 100% 50px, 50px 100%, 50px 100%;
-    pointer-events: none; /* Prevents interference with content */
-    z-index: -1; /* Places it behind the content */
+    pointer-events: none;
 }
 
