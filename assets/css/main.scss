@@ -41,21 +41,17 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup";
 body {
-    background: none; /* Remove the global background */
+    background: white;
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    height: 100vh;
 }
 
-.border-container::before {
-    content: "";
-    position: fixed;
-    top: 0; left: 0; right: 0; bottom: 0;
-    background-image: url('https://sp112358.github.io/Katalia_Qiuxia_Chen_2/assets/UTD-1.jpg');
-    background-size: 100% 100%; /* Stretch to fit the sides */
-    background-repeat: no-repeat;
-    z-index: -1; /* Put it behind content */
-    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%, 15% 100%, 15% 15%, 85% 15%, 85% 100%);
+.border-container {
+    padding: 20px;
+    border: 30px solid transparent;
+    border-image: url('https://sp112358.github.io/Katalia_Qiuxia_Chen_2/assets/UTD-1.jpg') 50 stretch;
+    background: white;
 }
 
