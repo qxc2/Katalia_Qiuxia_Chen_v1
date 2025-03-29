@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "UT Dallas, Naveen Jindal School of Management"
-date: Aug 2020 – Dec 2020, Aug 2021 – May 2023, Aug 2024 – Dec 2024
+date:2020
 location: "Dallas, U.S."
 ---
 
@@ -19,4 +19,3 @@ Heading 2
 
 Heading 3
 ======
-
