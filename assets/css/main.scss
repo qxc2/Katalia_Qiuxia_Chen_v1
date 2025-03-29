@@ -64,39 +64,52 @@ body {
     background-color: white; /* Fallback color */
 }
 
-body::before {
-    content: "";
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background-image: url('https://sp112358.github.io/Katalia_Qiuxia_Chen_2/assets/UTD-1.jpg'); /* Replace with your actual image path */
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    z-index: -1;
-}
-
-/* Ensure background image covers full page */
+/* Ensure body has no margin/padding */
 body {
     margin: 0;
     padding: 0;
     background: white;
 }
 
+/* Add background image only on the right side */
 body::before {
     content: "";
     position: fixed;
     top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background-image: url('https://sp112358.github.io/Katalia_Qiuxia_Chen_2/assets/UTD-1.jpg'); /* Change to your actual image path */
+    right: 0;
+    width: 40vw;  /* Adjust width of the background image */
+    height: 100vh; /* Full height */
+    background-image: url('https://sp112358.github.io/Katalia_Qiuxia_Chen_2/assets/UTD-1.jpg'); /* Update with correct path */
     background-size: cover;
-    background-position: center;
+    background-position: right center;
     background-repeat: no-repeat;
-    opacity: 1; /* Adjust transparency */
+    opacity: 0.4; /* Adjust transparency */
     z-index: -1;
 }
+
+/* Sidebar stays fixed on the left */
+.sidebar {
+    position: fixed;
+    left: 0;
+    top: 80px; /* Adjust based on header height */
+    width: 280px; /* Sidebar width */
+    padding: 20px;
+    background: white;
+    box-shadow: 2px 0px 10px rgba(0, 0, 0, 0.1);
+    height: 100vh;
+    overflow-y: auto;
+    z-index: 10;
+}
+
+/* Main content stays in the center-left */
+.main-container {
+    max-width: 900px; /* Adjust content width */
+    margin-left: 300px; /* Push content right from sidebar */
+    background-color: white;
+    padding: 20px;
+    position: relative;
+    z-index: 1;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+}
+
 
