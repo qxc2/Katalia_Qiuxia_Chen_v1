@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Dean’s Excellence Scholarship at JSOM
-High Scholar of Distinction at JSOM 
+======
+
+  * Dean’s Excellence Scholarship at JSOM
+  * High Scholar of Distinction at JSOM 
 
 
