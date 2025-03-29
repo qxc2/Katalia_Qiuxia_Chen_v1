@@ -5,5 +5,7 @@ layout: post
 permalink: /research/project1/
 ---
 
-<h1>Project 1 Title</h1>
+<h1>Social Impact, Sustainability, and the Environment; Application in Nonprofit Organizations; Behavioral Operations 
+Management </h1>
+
 <p>Description of your research project.</p>
