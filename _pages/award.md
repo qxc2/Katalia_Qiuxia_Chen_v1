@@ -1,17 +1,11 @@
 ---
-layout: archive
-title: "Awards"
+title: "Dean’s Excellence Scholarship at JSOM"
+collection: talks
+type: "Awards"
 permalink: /awards/
-author_profile: true
-redirect_from:
-  - /awards
+venue: "Institute for Operations Research and the Management Sciences"
+date: 2024-10-20  
+
 ---
 
-{% include base_path %}
-
-======
-
-  * Dean’s Excellence Scholarship at JSOM
-  * High Scholar of Distinction at JSOM 
-
-
+[More information here](https://meetings.informs.org/wordpress/seattle2024/)
