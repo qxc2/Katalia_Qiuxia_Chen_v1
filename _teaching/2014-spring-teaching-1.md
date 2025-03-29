@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Teacher/Lecture"
 permalink: /teaching/2014-spring-teaching-1
 venue: "UT Dallas, Naveen Jindal School of Management"
 date: "2025"
