@@ -81,10 +81,10 @@ body::before {
     height: 100vh; /* Full height */
     background-image: url('https://sp112358.github.io/Katalia_Qiuxia_Chen_2/assets/UTD-1.jpg'); /* Update with correct path */
     background-size: cover;
-    background-position: right center;
+    background-position: right ;
     background-repeat: no-repeat;
-    opacity: 0.4; /* Adjust transparency */
-    z-index: -1;
+    opacity: 0.8; /* Adjust transparency */
+    z-index: 5;
 }
 
 /* Sidebar stays fixed on the left */
@@ -103,8 +103,8 @@ body::before {
 
 /* Main content stays in the center-left */
 .main-container {
-    max-width: 900px; /* Adjust content width */
-    margin-left: 300px; /* Push content right from sidebar */
+    max-width: 1200px; /* Adjust content width */
+    margin-left: 100px; /* Push content right from sidebar */
     background-color: white;
     padding: 20px;
     position: relative;
