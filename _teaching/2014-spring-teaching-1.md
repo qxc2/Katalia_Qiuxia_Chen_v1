@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "UT Dallas, Naveen Jindal School of Management"
-date:2020
+date: "2020"
 location: "Dallas, U.S."
 ---
 
