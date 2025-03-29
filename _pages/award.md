@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Award"
-permalink: /award/
+title: "Awards"
+permalink: /awards/
 author_profile: true
 redirect_from:
-  - /award
+  - /awards
 ---
 
 {% include base_path %}
