@@ -11,6 +11,7 @@ redirect_from:
 
 Research Interest
 ======
+
 Social Impact, Sustainability, and the Environment; Application in Nonprofit Organizations; Behavioral Operations 
 Management 
 
