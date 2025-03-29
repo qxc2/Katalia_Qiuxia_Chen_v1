@@ -77,13 +77,13 @@ body::before {
     position: fixed;
     top: 0;
     right: 0;
-    width: 10vw;  /* Adjust width of the background image */
+    width: 20vw;  /* Adjust width of the background image */
     height: 100vh; /* Full height */
     background-image: url('https://sp112358.github.io/Katalia_Qiuxia_Chen_2/assets/UTD-1.jpg'); /* Update with correct path */
     background-size: cover;
     background-position: center ;
     background-repeat: no-repeat;
-    opacity: 0.8; /* Adjust transparency */
+    opacity: 1; /* Adjust transparency */
     z-index: 1;
 }
 
