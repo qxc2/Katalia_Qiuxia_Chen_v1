@@ -20,7 +20,6 @@ Work experience
 * Oct 2019–Jun 2020: UT Dallas                               
   * Office of Information and Technology, IT Support Analyst, Dallas, Texas  
   * Duties includes: Resolved around 480 tickets and helped around 6400 students, faculty, and staffs solve their technical issues.
-#  * Supervisor: The Users
 
 * Nov 2015 – Jul 2019: Shenzhen, China
   * AUKEY International Limited
