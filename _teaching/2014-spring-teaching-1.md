@@ -4,7 +4,7 @@ collection: teaching
 type: "Teacher/Lecture"
 permalink: /teaching/2014-spring-teaching-1
 venue: "UT Dallas, Naveen Jindal School of Management"
-date: 2025-1-1
+date: "2025-1-1"
 location: "Dallas, U.S."
 ---
 
