@@ -40,3 +40,33 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup";
+body {
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+.border-background::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://sp112358.github.io/Katalia_Qiuxia_Chen_2/assets/UTD-1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: -1;
+    filter: brightness(0.6); /* Adjust transparency */
+}
+
+.main-content {
+    max-width: 800px; /* Adjust width */
+    margin: auto;
+    background: white; /* Keeps central content readable */
+    padding: 20px;
+    position: relative;
+    z-index: 1;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2); /* Adds clarity */
+}
