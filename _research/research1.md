@@ -1,4 +1,3 @@
-This is a placeholder for the research folder
 ---
 title: "Research 1"
 collection: research
