@@ -40,18 +40,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup";
-body {
-    background: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-}
-
-.border-container {
-    padding: 200px;
-    border: 300px solid transparent;
-    border-image: url('https://sp112358.github.io/Katalia_Qiuxia_Chen_2/assets/UTD-1.jpg') 50 stretch;
-    background: white;
-}
-
