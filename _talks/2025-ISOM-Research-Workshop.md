@@ -9,4 +9,4 @@ location: "Gainesville, FL, USA"
 ---
 
 This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
-https://warrington.ufl.edu/information-systems-and-operations-management-department/research-workshop/
+[More information here](https://warrington.ufl.edu/information-systems-and-operations-management-department/research-workshop/)
