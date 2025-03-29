@@ -105,7 +105,7 @@ body::before {
     position: fixed;
     left: 0;
     top: 80px; /* Adjust based on your header height */
-    width: 280px; /* Adjust width */
+    width: 380px; /* Adjust width */
     padding: 20px;
     background: white; /* Make sidebar visible */
     box-shadow: 2px 0px 10px rgba(0, 0, 0, 0.1);
@@ -116,7 +116,7 @@ body::before {
 
 /* Adjust main content alignment */
 .main-container {
-    max-width: 900px; /* Adjust based on your content */
+    max-width: 600px; /* Adjust based on your content */
     margin-left: 300px; /* Push content to the right */
     background-color: white;
     padding: 20px;
