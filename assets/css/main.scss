@@ -64,41 +64,6 @@ body {
     background-color: white; /* Fallback color */
 }
 
-body::before {
-    content: "";
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background-image: url('https://sp112358.github.io/Katalia_Qiuxia_Chen_2/assets/UTD-1.jpg'); /* Replace with your actual image path */
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    z-index: -1;
-}
-
-/* Ensure background image covers full page */
-body {
-    margin: 0;
-    padding: 0;
-    background: white;
-}
-
-body::before {
-    content: "";
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background-image: url('https://sp112358.github.io/Katalia_Qiuxia_Chen_2/assets/UTD-1.jpg'); /* Change to your actual image path */
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    opacity: 0.4; /* Adjust transparency */
-    z-index: -1;
-}
 
 /* Fix sidebar to the left */
 .sidebar {
