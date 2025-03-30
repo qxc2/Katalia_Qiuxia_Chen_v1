@@ -14,6 +14,6 @@ redirect_from:
 * Consulting Leadership & Development Society (CLDS), Retail Operations Lead, UT Dallas   May 2020 – Aug 2021 
 
 * Supply Chain Leadership Council (SCLC), Officer, Case Competition Team, UT Dallas       Aug 2019 – August 2020                  
-
+[University of Texas at Dallas](https://www.utdallas.edu/)
 
 
