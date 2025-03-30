@@ -32,9 +32,9 @@ author:
   email            : "Qiuxia.Chen@utdallas.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+ # arxiv            : # URL - Update with the correct link to your profile
   linkedin         : "https://www.linkedin.com/in/katalia-chen"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
  # orcid            : "http://orcid.org/yourorcidurl"
  # semantic         : # URL
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -51,7 +51,7 @@ author:
 
   # Social media
   linkedin         : "katalia-chen"
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+#  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
