@@ -10,16 +10,12 @@
 
 @import
     "vendor/breakpoint/breakpoint",
-
     "themes",
     "theme/dark",
-
     "include/mixins",
     "vendor/susy/susy",
-
     "layout/reset",
     "layout/base",
-
     "include/utilities",
     "layout/tables",
     "layout/buttons",
@@ -28,21 +24,19 @@
     "layout/navigation",
     "layout/footer",
     "syntax",
-
     "layout/forms",
-
     "layout/page",
     "layout/archive",
     "layout/sidebar",
-
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands",
-    "vendor/magnific-popup/magnific-popup"
-   body {
+    "vendor/magnific-popup/magnific-popup";
+    
+/* Background image styling */
+body {
   background-image: url("/assets/images/UTD.png");
   background-size: cover;  /* Makes the background cover the entire page */
   background-position: center center;  /* Centers the image */
   background-attachment: fixed;  /* Keeps the background fixed when scrolling */
 }
-;
