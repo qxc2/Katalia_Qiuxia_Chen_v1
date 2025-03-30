@@ -3,7 +3,6 @@ layout: compress
 ---
 
 {% include base_path %}
-<link rel="stylesheet" href="{{ '/assets/css/main.scss' | relative_url }}">
 
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
@@ -25,6 +24,10 @@ layout: compress
         {% include footer.html %}
       </footer>
     </div>
+
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
 
     {% include scripts.html %}
 
