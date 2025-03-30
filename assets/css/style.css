@@ -2,7 +2,7 @@
 
 /* Set background image for the body */
 body {
-  background-image: url("/assets/images/UTD.png");
+  background-image: url("https://sp112358.github.io/Katalia_Qiuxia_Chen_2/assets/UTD-1.jpg");
   background-size: cover; /* Makes the background cover the entire page */
   background-position: center center; /* Centers the image */
   background-attachment: fixed; /* Keeps the image fixed while scrolling */
