@@ -1,0 +1,30 @@
+/* Basic styles for your site */
+
+/* Set background image for the body */
+body {
+  background-image: url("/assets/images/UTD.png");
+  background-size: cover; /* Makes the background cover the entire page */
+  background-position: center center; /* Centers the image */
+  background-attachment: fixed; /* Keeps the image fixed while scrolling */
+  margin: 0; /* Ensures there's no margin around the body */
+  padding: 0; /* Ensures no padding around the body */
+  font-family: Arial, sans-serif; /* Set a default font */
+  color: #fff; /* Set a default text color */
+}
+
+/* Styling for the header */
+header {
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+  padding: 20px;
+  text-align: center;
+}
+
+/* Basic styling for the content */
+.main-content {
+  padding: 20px;
+  text-align: center;
+}
+
+/* Footer Styling */
+.page__footer {
+  background-color: rgba(0, 0, 0, 0.7);
