@@ -28,11 +28,11 @@ author:
   bio              : "PhD candicate at University of Texas at Dalla, expert in all things business and operation management related"
   location         : "Dallas, TX"
   employer         : "The University of Texas at Dallas"
-  uri              : # URL
+  uri              : "https://graduation.utdallas.edu/student-speeches/spring-2021-graduation/katalia-qiuxia-chen/" # URL
   email            : "Qiuxia.Chen@utdallas.edu" 
 
   # Academic websites
-  UTD              : "https://graduation.utdallas.edu/student-speeches/spring-2021-graduation/katalia-qiuxia-chen/" # URL - Update with the correct link to your profile
+#  UTD              : "https://graduation.utdallas.edu/student-speeches/spring-2021-graduation/katalia-qiuxia-chen/" # URL - Update with the correct link to your profile
   linkedin         : "https://www.linkedin.com/in/katalia-chen"
  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
  # orcid            : "http://orcid.org/yourorcidurl"
