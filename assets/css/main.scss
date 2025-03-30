@@ -71,45 +71,6 @@ body {
     background: white;
 }
 
-/* Add background image only on the right side */
-body::before {
-    content: "";
-    position: fixed;
-    top: 0;
-    right: 0;
-    width: 15vw;  /* Adjust width of the background image */
-    height: 100vh; /* Full height */
-    background-image: url('https://sp112358.github.io/Katalia_Qiuxia_Chen_2/assets/UTD.png'); /* Update with correct path */
-    background-size: cover;
-    background-position: center ;
-    background-repeat: no-repeat;
-    opacity: 1; /* Adjust transparency */
-    z-index: 1;
-}
 
-/* Sidebar stays fixed on the left */
-.sidebar {
-    position: fixed;
-    left: 0;
-    top: 80px; /* Adjust based on header height */
-    width: 480px; /* Sidebar width */
-    padding: 20px;
-    background: white;
-    box-shadow: 2px 0px 10px rgba(0, 0, 0, 0.1);
-    height: 100vh;
-    overflow-y: auto;
-    z-index: 10;
-}
-
-/* Main content stays in the center-left */
-.main-container {
-    max-width: 1200px; /* Adjust content width */
-    margin-left: 100px; /* Push content right from sidebar */
-    background-color: white;
-    padding: 20px;
-    position: relative;
-    z-index: 30;
-    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
-}
 
 
