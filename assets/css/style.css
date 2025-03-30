@@ -14,17 +14,26 @@ body {
 
 /* Styling for the header */
 header {
-  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+  background-color: rgba(0, 0, 0, 0.7); /* Dark semi-transparent background */
   padding: 20px;
   text-align: center;
+  color: white;
 }
 
-/* Basic styling for the content */
+/* Main content styling */
 .main-content {
   padding: 20px;
   text-align: center;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  max-width: 800px;
+  margin: 20px auto;
 }
 
 /* Footer Styling */
 .page__footer {
   background-color: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
