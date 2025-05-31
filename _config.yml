@@ -215,7 +215,7 @@ kramdown:
 collections:
   research:
     output: true
-    permalink: /_research/
+    permalink: /research/
   teaching:
     output: true
     permalink: /_teaching/
