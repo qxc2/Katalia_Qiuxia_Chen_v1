@@ -213,22 +213,22 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  Research:
+  research:
     output: true
     permalink: /research/
-  Teaching:
+  teaching:
     output: true
     permalink: /teaching/
-  Talks:
+  talks:
     output: true
     permalink: /talks/
-  Awards:
+  awards:
     output: true
     permalink: /awards/
-  Publications:
+  publications:
     output: true
     permalink: /publications/
-  CV:
+  cv:
     output: true
     permalink: /cv/
   Leadship and Organizations:
