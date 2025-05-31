@@ -215,25 +215,25 @@ kramdown:
 collections:
   Research:
     output: true
-    permalink: /:collection/:research/
+    permalink: /research/
   Teaching:
     output: true
-    permalink: /:collection/:teaching/
+    permalink: /teaching/
   Talks:
     output: true
-    permalink: /:collection/talks/
+    permalink: /talks/
   Awards:
     output: true
-    permalink: /:collection/:award/
+    permalink: /awards/
   Publications:
     output: true
-    permalink: /:collection/:publications/
+    permalink: /publications/
   CV:
     output: true
-    permalink: /:collection/:cv/
+    permalink: /cv/
   Leadship and Organizations:
     output: true
-    permalink: /:collection/:Leadship and Organizations/
+    permalink: /Leadship and Organizations/
 
 
 
