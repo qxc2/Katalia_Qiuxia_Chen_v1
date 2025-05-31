@@ -215,19 +215,19 @@ kramdown:
 collections:
   research:
     output: true
-    permalink: /research/
+    permalink: /_research/
   teaching:
     output: true
-    permalink: /teaching/
+    permalink: /_teaching/
   talks:
     output: true
-    permalink: /talks/
+    permalink: /_talks/
   awards:
     output: true
-    permalink: /awards/
+    permalink: /_awards/
   publications:
     output: true
-    permalink: /publications/
+    permalink: /_publications/
   cv:
     output: true
     permalink: /cv/
