@@ -213,18 +213,29 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  Research:
     output: true
     permalink: /:collection/:path/
-  publications:
+  Teaching:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  Talks:
     output: true
     permalink: /:collection/:path/
-  talks:
+  Awards:
     output: true
     permalink: /:collection/:path/
+  Publications:
+    output: true
+    permalink: /:collection/:path/
+  CV:
+    output: true
+    permalink: /:collection/:path/
+  Leadship and Organizations:
+    output: true
+    permalink: /:collection/:path/
+
+
 
 
 # These settings control how pages and collections are included in the site
