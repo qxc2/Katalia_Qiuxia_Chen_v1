@@ -215,10 +215,10 @@ kramdown:
 collections:
   research:
     output: true
-    permalink: /research/
+    permalink: /_research/
   teaching:
     output: true
-    permalink: /teaching/
+    permalink: /_teaching/
   talks:
     output: true
     permalink: /_talks/
